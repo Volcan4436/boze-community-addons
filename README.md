@@ -1,6 +1,10 @@
 # Boze Community Addons
 Community managed add-on list for Boze Client
 
+## Installation Guide
+// todo
+
+## Add-On List
 
 ## External Links
 [Purchase Boze](https://boze.dev/)
