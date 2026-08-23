@@ -2,7 +2,7 @@
 Community managed add-on list for Boze Client
 
 ## Installation Guide
-// todo
+[here](https://github.com/Volcan4436/boze-community-addons/blob/main/INSTALLATION-GUIDE)
 
 ## Add-On List
 [here](https://github.com/Volcan4436/boze-community-addons/blob/main/LIST)
