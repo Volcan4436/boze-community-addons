@@ -15,4 +15,9 @@ Community managed add-on list for Boze Client
 bozedev - owner of Boze Client  
 [volcan4436](https://github.com/Volcan4436) - owner of repository  
 [sonhoang780](https://github.com/sonhoang780) - repository co-maintainer  
-
+#
+<p align="center">
+Boze is copyrighted by boze.dev.<br>
+  <br>
+  <img src="https://avatars.githubusercontent.com/u/100775621?s=200&v=4" width="100">
+</p>
