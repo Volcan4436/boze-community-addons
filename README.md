@@ -9,7 +9,8 @@ Community managed add-on list for Boze Client
 
 ## External Links
 [Purchase Boze](https://boze.dev/)  
-[Official Boze Discord](https://discord.gg/unyhSbS5G6)
+[Official Boze Discord](https://discord.gg/unyhSbS5G6)  
+[Official Boze Documentation](https://boze.dev/documentation/home)
 
 ## Credits
 bozedev - owner of Boze Client  
