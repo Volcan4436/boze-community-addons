@@ -5,6 +5,7 @@ Community managed add-on list for Boze Client
 // todo
 
 ## Add-On List
+[here](https://github.com/Volcan4436/boze-community-addons/blob/main/LIST)
 
 ## External Links
 [Purchase Boze](https://boze.dev/)
