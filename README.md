@@ -30,7 +30,8 @@ A trusted repo manager will verify if the add-on is safe before being added to t
 You can report and/or request the removal of an add-on listed on the repo to the issues page if it fills one or multiple of these criteria.
 - Includes proof of malicious code in any parts of add-on release files, repo files or included libraries or dependencies included with the add-on.  
 - Includes proof of ownership of add-on copyright or copyright of any assets used by the add-on.  
-- Includes proof of add-on being unusable or unsupported by Boze Client on a specific version specified in [LIST.md](https://github.com/Volcan4436/boze-community-addons/blob/main/LIST.md) 
+- Includes proof of add-on being unusable or unsupported by Boze Client on a specific version specified in [LIST.md](https://github.com/Volcan4436/boze-community-addons/blob/main/LIST.md)
+- Includes proof the add-on no longer fits the requirements to be on the community list.
 
 ## Credits
 bozedev - owner of Boze Client  
