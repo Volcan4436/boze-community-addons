@@ -39,7 +39,7 @@ bozedev - owner of Boze Client
 [sonhoang780](https://github.com/sonhoang780) - repository co-maintainer  
 #
 <p align="center">
-Boze is copyrighted by boze.dev.<br>
+Boze is copyrighted by boze.dev<br>
   <br>
   <img src="https://avatars.githubusercontent.com/u/100775621?s=200&v=4" width="100">
 </p>
