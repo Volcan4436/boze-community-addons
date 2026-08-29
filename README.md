@@ -5,12 +5,32 @@ Community managed add-on list for Boze Client
 [here](https://github.com/Volcan4436/boze-community-addons/blob/main/INSTALLATION-GUIDE.md)
 
 ## Add-On List
-[here](https://github.com/Volcan4436/boze-community-addons/blob/main/LIST.md)
+[here](https://github.com/Volcan4436/boze-community-addons/blob/main/LIST.md)  
 
 ## External Links
 [Purchase Boze](https://boze.dev/)  
 [Official Boze Discord](https://discord.gg/unyhSbS5G6)  
 [Official Boze Documentation](https://boze.dev/documentation/home)
+
+## Add-On Suggestions
+You can suggest add-ons to be added to the [Community List](https://github.com/Volcan4436/boze-community-addons/blob/main/LIST.md) by creating an issue report by including these in the issue post.
+- Link to add-on source code.
+- List Owner(s) of add-on.
+- List Supported Versions.
+- List add-on Features.
+
+Suggestion Requirements:
+- add-on is Open Source.
+- add-on posts it's builds in the github release page.
+- add-on is a Boze add-on (bad that I need to specify that).
+
+A trusted repo manager will verify if the add-on is safe before being added to the community list.
+
+## Report
+You can report and/or request the removal of an add-on listed on the repo to the issues page if it fills one or multiple of these criteria.
+- Includes proof of malicious code in any parts of add-on release files, repo files or included libraries or dependencies included with the add-on.  
+- Includes proof of ownership of add-on copyright or copyright of any assets used by the add-on.  
+- Includes proof of add-on being unusable or unsupported by Boze Client on a specific version specified in [LIST.md](https://github.com/Volcan4436/boze-community-addons/blob/main/LIST.md) 
 
 ## Credits
 bozedev - owner of Boze Client  
