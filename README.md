@@ -16,7 +16,7 @@ Community managed add-on list for Boze Client
 You can suggest add-ons to be added to the [Community List](https://github.com/Volcan4436/boze-community-addons/blob/main/LIST.md) by creating an issue report by including these in the issue post.
 - Link to add-on source code.
 - List Owner(s) of add-on.
-- List Supported Versions.
+- List Supported Version(s).
 - List add-on Features.
 
 Suggestion Requirements:
